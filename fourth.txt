@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 this is not four its two
-=======
 this is four
 this is four
->>>>>>> main
+4
